@@ -24,4 +24,4 @@ The starter files used in this project are provided by Udacity and are comprised
 * Clicking a link will result in instantly applying some styles to the link by adding a class via JS as an indication that it got interacted with
 * The user is also allowed to scroll through the webpage and make his way across the document to the desired section of content 
 * Scrolling the page results in applying some styles to the current section that comes into view achieved also by adding a class via JS
-* The scrolling interaction also applies the same styles to the link      
+* The scrolling interaction also applies the same styles to the link as the ones applied upon click as soon as the associated section (i.e. the one given the id we're anchoring to) is revealed in the viewport     
